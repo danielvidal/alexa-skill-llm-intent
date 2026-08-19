@@ -130,3 +130,4 @@ config.json
 /.idea/
 !/.envrc
 /.envrc.private
+lambda/config.json
