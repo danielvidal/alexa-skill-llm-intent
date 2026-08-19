@@ -84,7 +84,14 @@
             "quanto é {searchQuery}",
             "quanto custa {searchQuery}",
             "explique {searchQuery}",
-            "o que significa {searchQuery}"
+            "o que significa {searchQuery}",
+            "qual {searchQuery}",
+            "qual a {searchQuery}",
+            "qual o {searchQuery}",
+            "qual é a {searchQuery}",
+            "qual e a {searchQuery}",
+            "qual é o {searchQuery}",
+            "qual e o {searchQuery}"
           ]
         },
         {
