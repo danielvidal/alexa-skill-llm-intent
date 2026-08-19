@@ -54,7 +54,13 @@
             "a question",
             "for a question",
             "ask openAI a question",
-            "answer me a question"
+            "answer me a question",
+            "{searchQuery}",
+            "ask you {searchQuery}",
+            "I have a question: {searchQuery}",
+            "can you answer {searchQuery}",
+            "do you know {searchQuery}",
+            "what can you tell me about {searchQuery}"
           ]
         },
         {
